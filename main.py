@@ -17,8 +17,6 @@ def unicodeToAscii(s):
         if unicodedata.category(c) != 'Mn'
     )
 
-# Lowercase, trim, and remove non-letter characters
-
 
 def normalizeString(s):
     s = unicodeToAscii(s.lower().strip())
