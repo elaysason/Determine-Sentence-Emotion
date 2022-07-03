@@ -15,6 +15,8 @@ LSTM is an advanced kind of recurrent neural network capable of handling long-te
 <img src="https://i.imgur.com/xt19dlR.png" width = 70% height=70%>
 
 where the following definitions hold:
+
+
 <img src="https://i.imgur.com/xt19dlR.png" width = 70% height=70%>
 
 
