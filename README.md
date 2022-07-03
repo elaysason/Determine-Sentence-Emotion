@@ -14,11 +14,9 @@ The goal is to use deep learning and recurrent neural networks in particular to 
 ### Background
 LSTM is an advanced kind of recurrent neural network capable of handling long-term dependencies and information
 <img src="https://i.imgur.com/xt19dlR.png" width = 70% height=70%>
+where the following definitions hold:
+<img src="https://i.imgur.com/xt19dlR.png" width = 70% height=70%>
 
-### More-About-The-Task-In-Hand
-Wearing mask in this is not neccarly inuative. A person is wearing a mask if and only if 3 or more parts of his face are covered defined by this picture
-
-<img src="https://i.imgur.com/LIojmcB.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width=40% height=40% />
 
 ## Program Structure
 The first part is specific functions for the dataset. The second part is the implementaions of the algorithms:
