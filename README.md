@@ -12,6 +12,7 @@ Detrimane the emotion of a tweet using deep learning.
 The goal is to use deep learning and recurrent neural networks in particular to predict to emotion of a tweet. We used LSTM model to comply with that goal.
 ### Background
 LSTM is an advanced kind of recurrent neural network capable of handling long-term dependencies and information
+
 <img src="https://i.imgur.com/xt19dlR.png" width = 70% height=70%>
 
 where the following definitions hold:
