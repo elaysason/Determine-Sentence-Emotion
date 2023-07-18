@@ -1,7 +1,7 @@
 # Determine-Sentence-Emotion
 
 
-Detrimane the emotion of a tweet using deep learning.
+Determine the emotion of a tweet using deep learning.
 1. [General](#General)
     - [Background](#background)
 3. [Program Structure](#Program-Structure)
