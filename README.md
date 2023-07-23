@@ -4,9 +4,9 @@
 Determine the emotion of a tweet using deep learning.
 1. [General](#General)
     - [Background](#background)
-3. [Program Structure](#Program-Structure)
+2. [Program Structure](#Program-Structure)
     - [Network Structure](#Network-Structure)
-5. [Installation](#Installation)
+3. [Installation](#Installation)
 
 ## General
 The goal is to use deep learning and recurrent neural networks in particular to predict to emotion of a tweet. We used LSTM model to comply with that goal.
